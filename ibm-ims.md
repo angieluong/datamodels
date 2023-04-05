@@ -2,7 +2,7 @@
 
 * The IBM Information Management System (IMS) is a **hierarchical** database that is **commercial**, not open-source. Their website can be found at [this link](https://www.ibm.com/products/ims).
 * This database can be hosted through **client/server and embedded** options, as it is built for a widespread, organizational use.
-* Similar to the IBM Cloudant discussed in the `cloudant.md` file, IBM IMS allows Java access through the 64-bit IBM Java (SDK).  [This community post](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/carlos-alvarado1/2022/02/16/31-bit-cobol-can-now-talk-to-64-bit-java) dives into the development of this expansion to include Java and how it connects to an older compiler.
+* Similar to the IBM Cloudant discussed in the `cloudant.md` file, IBM IMS allows Java access through the **64-bit IBM Java (SDK)**.  [This community post](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/carlos-alvarado1/2022/02/16/31-bit-cobol-can-now-talk-to-64-bit-java) dives into the development of this expansion to include Java and how it connects to an older compiler.
 
 **How this data model is different from the others**
 * Not only is the IBM IMS different from the other databases that have been discussed because it is jointly a hierarchical database *as well as* an information management system, but it is different through its data model as well.

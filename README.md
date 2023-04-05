@@ -1,7 +1,4 @@
 # README.md
-**Description**
-
-
 
 ## List of databases and their files:
 * Microsoft SQL Server - `ms-sql-server.md`
